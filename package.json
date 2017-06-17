@@ -5,6 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "axios": "^0.16.2",
+    "axios-retry": "^2.0.0",
     "cheerio": "^1.0.0-rc.1",
     "csv": "^1.1.1",
     "download": "^6.2.2",
